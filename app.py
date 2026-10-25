@@ -282,5 +282,4 @@ if __name__ == '__main__':
     print('📚 API Docs: http://localhost:5000/')
     print('🛑 Press CTRL+C to stop')
     print('=' * 60)
-    if __name__ == '__main__':
     app.run(debug=True, port=5000)
